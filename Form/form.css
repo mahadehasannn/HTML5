@@ -1,0 +1,21 @@
+.reset {
+
+    background-color: green;
+    color: white;
+    width: 60px;
+}
+
+
+.submit{   background-color: green;
+    color: white;
+    width: 60px;
+
+}
+
+.special-instraction{
+    width: 150px;
+    color: white;
+    
+background-color: yellowgreen;
+
+}
